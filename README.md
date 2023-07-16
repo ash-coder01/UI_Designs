@@ -1,8 +1,8 @@
 # UI Designs - Seamless
 Showcasing the UI designs for project - Seamless.
-*Seamless is a blockchain based one-stop-platform which is aimed at improving fan engagement on ICC's official platforms. 
-*It integrates all the tools of ICC in a single application while using the concept of gamification for better fan experience.
-*The user interface (UI) has been developed using React.
+* Seamless is a blockchain based one-stop-platform which is aimed at improving fan engagement on ICC's official platforms. 
+* It integrates all the tools of ICC in a single application while using the concept of gamification for better fan experience.
+* The user interface (UI) has been developed using React.
 
 ## Landing Page
 ![Landing Page Upper)](https://github.com/ash-coder01/UI_Designs/assets/83287773/5635ad5a-0076-4a6c-9d82-eaea29e96cd1)
